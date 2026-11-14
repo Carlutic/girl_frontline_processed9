@@ -1,0 +1,39 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_cloth1_da.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_cloth1_da_n.png"
+  },
+  "c_ClukaySSR0103_slg_cloth2_da.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_cloth2_da_n.png"
+  },
+  "c_ClukaySSR0103_slg_head_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_head_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_hua_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_hua_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_Peijian_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_Peijian_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_glock_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_glock_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_miaobiao_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_miaobiao_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_cloth3_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_cloth3_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_P1_cloth_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_P1_cloth_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_P1_body_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_P1_body_d_n.png"
+  },
+  "c_ClukaySSR0103_slg_P1_head_d.png": {
+    "normal": "maps/c_ClukaySSR0103_slg_P1_head_d_n.png"
+  }
+}

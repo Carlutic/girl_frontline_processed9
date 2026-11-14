@@ -1,0 +1,16 @@
+{
+  "defaultPreset": "lobby",
+  "c_GrozaDorm_body_da.png": {
+    "normal": "maps/c_GrozaDorm_body_da_n.png"
+  },
+  "c_Harpsy_slg_hair_d.png": {
+    "normal": "maps/c_Harpsy_slg_hair_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

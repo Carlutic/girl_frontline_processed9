@@ -1,0 +1,19 @@
+{
+  "defaultPreset": "lobby",
+  "c_SpringfieldSSR0102_slg_cloth2_da.png": {
+    "normal": "maps/c_SpringfieldSSR0102_slg_cloth2_da_n.png"
+  },
+  "c_SpringfieldSSR0102_slg_cloth1_d.png": {
+    "normal": "maps/c_SpringfieldSSR0102_slg_cloth1_d_n.png"
+  },
+  "c_Sharkry_slg_hair_d.png": {
+    "normal": "maps/c_Sharkry_slg_hair_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cth2-Socks1": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}
