@@ -72,7 +72,7 @@
  {
   "id": 80103,
   "name": "ClukaySSR0105",
-  "displayName": "可露凯 女仆皮",
+  "displayName": "可露凯 女仆皮（无瑕侍礼）",
   "weaponType": "",
   "element": "GirlsFrontline",
   "gender": "Female",
@@ -80,7 +80,7 @@
   "rarity": 5,
   "directory": "chars/ClukaySSR0105",
   "image": "Covers/ClukaySSR0105.png",
-  "pmx": "GirlsFrontline ClukaySSR0105.pmx",
+  "pmx": "【少女前线2：追放】可露凯（无瑕侍礼)-全配件.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
  {
