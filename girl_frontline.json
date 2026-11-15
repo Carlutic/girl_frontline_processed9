@@ -9,7 +9,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/Ball",
-  "image": "chars/Ball/preview.png",
+  "image": "Covers/Ball.png",
   "pmx": "Ball.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
@@ -23,7 +23,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/WeaponSword",
-  "image": "chars/WeaponSword/preview.png",
+  "image": "Covers/WeaponSword.png",
   "pmx": "Weapon Sword.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
@@ -37,7 +37,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/FaelynnSSR0",
-  "image": "chars/FaelynnSSR0/preview.png",
+  "image": "Covers/FaelynnSSR0.png",
   "pmx": "FaelynnSSR0.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
@@ -51,7 +51,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/Fan",
-  "image": "chars/Fan/preview.png",
+  "image": "Covers/Fan.png",
   "pmx": "Fan.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
@@ -65,7 +65,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/Fan4",
-  "image": "chars/Fan4/preview.png",
+  "image": "Covers/Fan4.png",
   "pmx": "Fan.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
