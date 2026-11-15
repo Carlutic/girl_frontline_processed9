@@ -33,11 +33,5 @@
   "c_FaelynnSSR0101_slg_p2_body1_d.png": {
     "normal": "maps/c_FaelynnSSR0101_slg_p2_body1_d_n.png"
   },
-  "stockingMode": "alpha",
-  "stockingSkinTexture": "socks_skin_d.png",
-  "materialOverrides": {
-    "丝袜-P1": {
-      "diffuse": "socks_d.png"
-    }
-  }
+  "disableStocking": true
 }
