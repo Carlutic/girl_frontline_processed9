@@ -10,7 +10,7 @@
   "rarity": 5,
   "directory": "chars/Ball",
   "image": "Covers/Ball.png",
-  "pmx": "Ball.pmx",
+  "pmx": "Helena.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
  {
@@ -24,7 +24,7 @@
   "rarity": 5,
   "directory": "chars/WeaponSword",
   "image": "Covers/WeaponSword.png",
-  "pmx": "Weapon Sword.pmx",
+  "pmx": "斐图萨.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
  {
@@ -38,7 +38,7 @@
   "rarity": 5,
   "directory": "chars/FaelynnSSR0",
   "image": "Covers/FaelynnSSR0.png",
-  "pmx": "FaelynnSSR0.pmx",
+  "pmx": "GirlsFrontline FaelynnSSR01011.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
  {
@@ -52,7 +52,7 @@
   "rarity": 5,
   "directory": "chars/Fan",
   "image": "Covers/Fan.png",
-  "pmx": "Fan.pmx",
+  "pmx": "GirlsFrontline DaiYanDefault Ver 2.1.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
  {
@@ -66,7 +66,7 @@
   "rarity": 5,
   "directory": "chars/Fan4",
   "image": "Covers/Fan4.png",
-  "pmx": "Fan.pmx",
+  "pmx": "GirlsFrontline DaiYan 2024SpringFestival 1.1.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  },
  {
@@ -193,6 +193,20 @@
   "directory": "chars/CheyanneRestroom",
   "image": "Covers/CheyanneRestroom.png",
   "pmx": "GirlsFrontline CheyanneRestroom.pmx",
+  "base": "https://carlutic.github.io/girl_frontline_processed9/"
+ },
+ {
+  "id": 80203,
+  "name": "PhaetusaIK",
+  "displayName": "斐图萨 原皮（腕IK追加）",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/WeaponSword",
+  "image": "Covers/WeaponSword.png",
+  "pmx": "斐图萨（腕IK追加）.pmx",
   "base": "https://carlutic.github.io/girl_frontline_processed9/"
  }
 ]

@@ -1,6 +1,19 @@
 {
   "defaultPreset": "lobby",
-  "c_DaiyanSSR0103_slg_shanzi_d.png": {
-    "normal": "maps/c_DaiyanSSR0103_slg_shanzi_d_n.png"
+  "c_DaiyanSSR0103_slg_cloth1_d.png": {
+    "normal": "maps/c_DaiyanSSR0103_slg_cloth1_d_n.png"
+  },
+  "c_DaiyanSSR0103_slg_cloth2_da.png": {
+    "normal": "maps/c_DaiyanSSR0103_slg_cloth2_da_n.png"
+  },
+  "cw_FayeeSR01_WL_lod0_d.png": {
+    "normal": "maps/cw_FayeeSR01_WL_lod0_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "SocksA": {
+      "diffuse": "socks_d.png"
+    }
   }
 }

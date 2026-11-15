@@ -1,6 +1,27 @@
 {
   "defaultPreset": "lobby",
-  "cw_PhaetusaSSR01_weapon_slg_d.png": {
-    "normal": "maps/cw_PhaetusaSSR01_weapon_slg_d_n.png"
+  "c_PhaetusaSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_PhaetusaSSR01_slg_cloth1_d_n.png"
+  },
+  "c_PhaetusaSSR01_slg_logo_ma.png": {
+    "normal": "maps/c_PhaetusaSSR01_slg_logo_ma_n.png"
+  },
+  "c_PhaetusaSSR01_slg_cloth2_d2.png": {
+    "normal": "maps/c_PhaetusaSSR01_slg_cloth2_d2_n.png"
+  },
+  "c_PhaetusaSSR01_slg_logo_da.png": {
+    "normal": "maps/c_PhaetusaSSR01_slg_logo_da_n.png"
+  },
+  "c_PhaetusaSSR01_slg_logo_da2.png": {
+    "normal": "maps/c_PhaetusaSSR01_slg_logo_da2_n.png"
+  },
+  "c_PhaetusaSSR01_slg_cloth3_d.png": {
+    "normal": "maps/c_PhaetusaSSR01_slg_cloth3_d_n.png"
+  },
+  "cw_MP443_WL_d.png": {
+    "normal": "maps/cw_MP443_WL_d_n.png"
+  },
+  "c_PhaetusaSSR01_slg_hair_d.png": {
+    "normal": "maps/c_PhaetusaSSR01_slg_hair_d_n.png"
   }
 }
